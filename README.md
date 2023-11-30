@@ -1,4 +1,4 @@
-# app_encuesta
+# App para Encuestas de Satisfacción.
 
 A new Flutter project.
 
